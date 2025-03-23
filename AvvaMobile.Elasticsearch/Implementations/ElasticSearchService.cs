@@ -1,7 +1,7 @@
 ﻿using Elastic.Clients.Elasticsearch;
-using Mlink.AdDistribution.Shared.Elastic.Abstractions;
+using AvvaMobile.Elasticsearch.Abstractions;
 
-namespace Mlink.AdDistribution.Shared.Elastic.Implementations;
+namespace AvvaMobile.Elasticsearch.Implementations;
 
 public class ElasticSearchService : IElasticSearchService
 {

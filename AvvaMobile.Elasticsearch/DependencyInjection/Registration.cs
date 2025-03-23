@@ -2,10 +2,10 @@
 using Elastic.Transport;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Mlink.AdDistribution.Shared.Elastic.Abstractions;
-using Mlink.AdDistribution.Shared.Elastic.Implementations;
+using AvvaMobile.Elasticsearch.Abstractions;
+using AvvaMobile.Elasticsearch.Implementations;
 
-namespace Mlink.AdDistribution.Shared.Elastic.DependencyInjection;
+namespace AvvaMobile.Elasticsearch.DependencyInjection;
 
 public static class Registration
 {

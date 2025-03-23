@@ -1,4 +1,4 @@
-﻿namespace Mlink.AdDistribution.Shared.Elastic.Abstractions;
+﻿namespace AvvaMobile.Elasticsearch.Abstractions;
 
 public interface IElasticSearchService
 {

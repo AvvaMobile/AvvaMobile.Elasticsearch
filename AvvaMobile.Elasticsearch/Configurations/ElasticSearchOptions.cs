@@ -1,4 +1,4 @@
-namespace Mlink.AdDistribution.Shared.Elastic.Configurations;
+namespace AvvaMobile.Elasticsearch.Configurations;
 
 public class ElasticSearchOptions
 {

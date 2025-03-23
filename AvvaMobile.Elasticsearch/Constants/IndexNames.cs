@@ -1,4 +1,4 @@
-namespace Mlink.AdDistribution.Shared.Elastic.Constants;
+namespace AvvaMobile.Elasticsearch.Constants;
 
 public static class IndexNames
 {   

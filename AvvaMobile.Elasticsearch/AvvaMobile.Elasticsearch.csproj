@@ -13,7 +13,7 @@
 	  <RunAnalyzersDuringBuild>False</RunAnalyzersDuringBuild>
 	  <RunAnalyzersDuringLiveAnalysis>False</RunAnalyzersDuringLiveAnalysis>
 	  <EnableNETAnalyzers>False</EnableNETAnalyzers>
-	  <Version>1.0.0</Version>
+	  <Version>1.0.1</Version>
 	  <PackageIcon>avvamobile.png</PackageIcon>
 	  <Description>This package is build for Avva Mobile developers to make their solutions easy to Elasticsearch integrations</Description>
 	  <Copyright>Avva Mobile Enterprise Solutions</Copyright>
